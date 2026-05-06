@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Georgia", serif;
 }
 
 
@@ -39,7 +39,7 @@ body {
 .botao {
     font-family: "Georgia", serif;
     background-color: var(--botao-inativo);
-    color: var(--branco);
+    color: var(--texto-fundo);
     display: flex;
     justify-content: center;
     padding: 1em;

@@ -7,7 +7,7 @@
     --branco: #FFFFFF; /*branco puro*/
     --botao-ativo: #efd7cf; /*rosa claro*/
     --botao-inativo: #ddbaae; /*rosa escuro*/
-    --texto-fundo: rgb(0, 0, 0); /*preto puro*/
+    --texto-fundo: #f6ead4; /*creme mais escuro*/
 }
 
 body {

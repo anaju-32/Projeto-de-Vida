@@ -8,11 +8,12 @@
     --botao-ativo: #efd7cf; /*rosa claro*/
     --botao-inativo: #ddbaae; /*rosa escuro*/
     --texto-fundo: #f6ead4; /*creme mais escuro*/
+    --preto: #121212; 
 }
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--preto);
     font-family: "Georgia", serif;
 }
 

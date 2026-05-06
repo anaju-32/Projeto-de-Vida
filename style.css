@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+/*não sei se o link esta certo, mas eu tentei*/
 
 :root {
-    --cor-de-fundo: #fffaf2;
-    --verde: #c2c39c;
-    --branco: #FFFFFF;
-    --botao-ativo: #efd7cf;
-    --botao-inativo: #ddbaae;
-    --texto-fundo: rgb(0, 0, 0);
+    --cor-de-fundo: #fffaf2; /*creme*/
+    --verde: #c2c39c; /*verde*/
+    --branco: #FFFFFF; /*branco puro*/
+    --botao-ativo: #efd7cf; /*rosa claro*/
+    --botao-inativo: #ddbaae; /*rosa escuro*/
+    --texto-fundo: rgb(0, 0, 0); /*preto puro*/
 }
 
 body {
@@ -39,7 +40,7 @@ body {
 .botao {
     font-family: "Georgia", serif;
     background-color: var(--botao-inativo);
-    color: var(--texto-fundo);
+    color: var(--texto-fundo); 
     display: flex;
     justify-content: center;
     padding: 1em;
